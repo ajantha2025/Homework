@@ -7,5 +7,5 @@
 ### [Python learning article](https://www.w3schools.com/python/)
  ### ![Inspirational Image](https://www.shutterstock.com/image-vector/can-learn-new-things-kids-260nw-1842579901.jpg)
  
- The image is meant to inspire confidence, self-belief, and motivation. It's gentle and encouraging, ideal for reminding someone to stay positive and trust their abilities.
+ The image is meant to inspire confidence, self-belief, and motivation.
 
