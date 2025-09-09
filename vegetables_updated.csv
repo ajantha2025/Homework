@@ -1,0 +1,5 @@
+,Unnamed: 0,name,colour,price_per_lb,Eaten_Raw
+0,0,carrot,orange,5,True
+1,1,cabbage,green,4,False
+2,2,spinach,green,10,False
+3,3,tomato,red,8,True
